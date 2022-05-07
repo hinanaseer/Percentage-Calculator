@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+}
+h3{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(233, 16, 16);
+}
+#grade{
+    border-radius: 5px;
+}
+#submit{
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+#submit:hover{
+    background-color: rgb(138, 138, 104);
+}
